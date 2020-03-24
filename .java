@@ -51,7 +51,7 @@ class Rohan1
 		    }
 		    else
 		    {
-		        System.out.println("False");
+		        System.out.println("false");
 		    }
 		}
 	}
